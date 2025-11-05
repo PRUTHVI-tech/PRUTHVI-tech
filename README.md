@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/PRUTHVI-tech/PRUTHVI-tech/blob/main/banner.png?raw=true" alt="PRUTHVIRAJ KAJARE - Full Stack Developer" />
+  <img src="https://github.com/PRUTHVI-tech/PRUTHVI-tech/blob/main/banner.png?raw=true" width="750"
+  height="200" alt="PRUTHVIRAJ KAJARE - Java Full Stack Developer" />
 </p>
 
 <p align="center">
@@ -14,7 +15,7 @@
 - 🌱 I’m currently working on Java Projects
 - 🎓 I am graduating this year with **8.53 CGPA**
 - 👯 I want to contribute to the world through technology
-- 📫 Reach me: **omikajare22164@gmail.com**
+- 📫 Reach me: **kajarepruthviraj2004@gmail.com**
 
 ---
 
