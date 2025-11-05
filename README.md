@@ -51,7 +51,8 @@
 
 ### GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=PRUTHVI-tech&show_icons=true&count_private=true&theme=radical)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=PRUTHVI-tech&theme=radical&card_width=350)
+
 
 ### Streak Stats
 
