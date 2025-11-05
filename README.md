@@ -18,6 +18,14 @@
 
 ---
 
+### Connect with me
+
+<a href="https://www.linkedin.com/in/pruthviraj-kajare-9b2602368" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
+
 ### Languages
 
 | Java | JavaScript | Bootstrap | Git | GitHub | Linux |
@@ -47,3 +55,11 @@
 ### Streak Stats
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=PRUTHVI-tech&theme=radical)
+
+### Activity Graph
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PRUTHVI-tech&theme=react-dark)
+
+### GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=PRUTHVI-tech&theme=radical&no-frame=true&no-bg=true&margin-w=4)
