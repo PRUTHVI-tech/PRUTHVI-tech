@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="PRUTHVIRAJ KAJARE - Full Stack Developer" />
+  <img src="https://github.com/PRUTHVI-tech/PRUTHVI-tech/blob/main/banner.png?raw=true" alt="PRUTHVIRAJ KAJARE - Full Stack Developer" />
 </p>
 
 <p align="center">
