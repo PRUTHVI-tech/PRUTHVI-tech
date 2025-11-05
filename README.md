@@ -1,21 +1,49 @@
-- 👋 Hi  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pruthviraj Kajare
-======================================================================================================================================
-<h4>A Full-Stack developer | JAVA Developer</h4>
+<p align="center">
+  <img src="banner.png" alt="PRUTHVIRAJ KAJARE - Full Stack Developer" />
+</p>
 
-- 👀 I’m interested in to work on Web 3.0
-- 🌱 I’m currently work JAVA project.
-- 👯 I’m making the world better...
-- 📫 How to reach me:omikajare22164@gmail.com 
--⚡ Fun fact: I'm currently studying BSc.Information Technology
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=22C55E&center=true&vCenter=true&width=600&lines=console.log(%22Hello+I+am+Pruthviraj...%22);Full+Stack+Developer;Java+Developer;Web+3.0+Enthusiast" alt="Typing SVG" />
+</p>
 
- <a href="https://[www.github.com/dipayansarkar47](https://github.com/PRUTHVI-tech/PRUTHVI-tech)" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dipayansarkar47?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipayansarkar47&label=Profile%20views&color=0e75b6&style=flat" alt="dipayansarkar47" /> </p>
-<p align="left"> <a href="https://twitter.com/codewithbiki" target="blank"><img src="https://img.shields.io/twitter/follow/codewithbiki?logo=twitter&style=for-the-badge" alt="codewithbiki" /></a> </p>
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="react" width="35" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png" alt="tailwind" width="40" height="40"/> </a> </p>
-<h3 align="left">Frameworks and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="tailwind" width="50" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="tailwind" width="50" height="40"/> </a> </p>
-[![An image of @dipayansarkar47's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipayansarkar47)](https://holopin.io/@dipayansarkar47)
-<b>My GitHub Stats</b>
-<a href="http://www.github.com/dipayansarkar47"><img src="https://github-readme-stats.vercel.app/api?username=dipayansarkar47&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dipayansarkar47's GitHub stats" /></a>
+# Hi 👋 I'm Pruthviraj Kajare
+
+### Full-Stack Developer | Java Developer
+
+- 👀 I’m interested in Web 3.0
+- 🌱 I’m currently working on Java Projects
+- 🎓 I am graduating this year with **8.53 CGPA**
+- 👯 I want to contribute to the world through technology
+- 📫 Reach me: **omikajare22164@gmail.com**
+
+---
+
+### Languages
+
+| Java | JavaScript | Bootstrap | Git | GitHub | Linux |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="45"/> | <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="45"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="45"/> | <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="45"/> |
+
+---
+
+### Frameworks & Tools
+
+| Spring | Spring Boot | React |
+|:--:|:--:|:--:|
+| <img src="https://spring.io/img/spring.svg" width="60"/> | <img src="https://spring.io/img/projects/spring-boot.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="60"/> |
+
+---
+
+### Holopin Badges
+
+[![holopin badges](https://holopin.me/pruthvitech)](https://holopin.io/@pruthvitech)
+
+---
+
+### GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=PRUTHVI-tech&show_icons=true&count_private=true&theme=radical)
+
+### Streak Stats
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=PRUTHVI-tech&theme=radical)
